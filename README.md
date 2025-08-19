@@ -1,0 +1,1 @@
+This case study requires accurately predicting whether an individual’s income exceeds $50,000. There is 32561 instances in the Census income dataset, which is a large volume of data; therefore, there is a need to use AI. In this lab, supervised machine learning algorithms will be used to solve this problem.
